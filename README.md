@@ -1,4 +1,3 @@
-```markdown
 # ❤️ Heart Disease Prediction - Machine Learning Diagnostic System
 
 🏥 Clinical Decision Support System for Cardiovascular Risk Assessment
